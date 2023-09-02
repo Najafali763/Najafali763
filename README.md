@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Najafali
 - 👀 I’m interested in learning Python CSS, HTML and JavaScript
 - 🌱 I’m currently learning Pthon, HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a mentor to guide me
 - 📫 How to reach me ...
 
 <!---
